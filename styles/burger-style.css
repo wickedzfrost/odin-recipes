@@ -1,0 +1,28 @@
+body {
+    background-color: #F5E8B7;
+}
+
+.title {
+    color: #CD5C08;
+    font-weight: bold;
+    font-size: 36px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.title.description {
+    color: #CD5C08;
+    font-size: bold;
+    font-family: serif;
+}
+
+.text {
+    color:#113946;
+    font-size: 26px;
+    text-align: left;
+    font-weight: 600;
+}
+
+.text.ingredients {
+    font-size: 18px;
+    color : purple;
+}
